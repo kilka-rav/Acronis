@@ -1,0 +1,9 @@
+Alghorithm Knuth-Morris-Pratt. Search substring in big string.
+RUN:
+___________________
+make -f makefile
+./main
+enter substring
+enter string
+___________________
+
